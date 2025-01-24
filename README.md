@@ -1,4 +1,4 @@
-**Building a REST API with Node.js, Express, TypeScript, and MongoDB (With Authentication)**
+### Building a REST API with Node.js, Express, TypeScript, and MongoDB (With Authentication).
 
 This project is focused on creating a robust and scalable RESTful API using modern web development technologies. The API is built with **Node.js** and **Express.js** for handling server-side logic, **TypeScript** for enhanced type safety and developer productivity, and **MongoDB** as the database for managing and storing application data.
 
